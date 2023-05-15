@@ -1,0 +1,5 @@
+package com.psin.user.controllers;
+
+public class UserController {
+
+}

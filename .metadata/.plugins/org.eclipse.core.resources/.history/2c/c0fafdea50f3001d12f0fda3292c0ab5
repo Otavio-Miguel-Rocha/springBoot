@@ -1,0 +1,5 @@
+package com.psin.user.repositories;
+
+public class UserRepository {
+
+}
